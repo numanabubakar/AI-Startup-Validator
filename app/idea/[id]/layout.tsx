@@ -1,0 +1,3 @@
+export default function IdeaLayout({ children }: { children: React.ReactNode }) {
+  return <div className="bg-background">{children}</div>
+}
