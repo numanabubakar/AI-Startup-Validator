@@ -38,7 +38,7 @@ export function Navbar() {
             <Zap className="h-4 w-4 text-primary-foreground" />
           </div>
           <div className="flex flex-col leading-none">
-            <span className="text-sm font-bold text-foreground">Startup Idea Generator</span>
+            <span className="text-sm font-bold text-foreground">AI Startup Idea Validator & Co-Founder Agent</span>
             <span className="text-[10px] text-muted-foreground font-medium tracking-wide">PAKISTAN</span>
           </div>
         </Link>

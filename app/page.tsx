@@ -44,7 +44,7 @@ export default async function HomePage() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Zap className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="text-lg font-bold text-foreground">Startup Idea Generator</span>
+            <span className="text-lg font-bold text-foreground">AI Startup Idea Validator & Co-Founder Agent</span>
           </div>
           <div className="flex items-center gap-3">
             <Button variant="ghost" size="sm" asChild>
@@ -113,7 +113,7 @@ export default async function HomePage() {
 
       {/* Footer */}
       <footer className="border-t border-border px-4 py-6 text-center text-sm text-muted-foreground">
-        <p>&copy; {new Date().getFullYear()} Startup Idea Generator. Built with AI.</p>
+        <p>&copy; {new Date().getFullYear()} AI Startup Idea Validator & Co-Founder Agent. Built with AI.</p>
       </footer>
     </main>
   )

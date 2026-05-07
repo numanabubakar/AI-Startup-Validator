@@ -12,7 +12,7 @@ export default function SignUpSuccessPage() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Zap className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">Startup Idea Generator</span>
+            <span className="text-xl font-bold text-foreground text-center">AI Startup Idea Validator & Co-Founder Agent</span>
           </div>
         </div>
 
