@@ -7,7 +7,7 @@ const _inter = Inter({ subsets: ['latin'] })
 const _geistMono = Geist_Mono({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'IdeaForge Pakistan — AI Startup Validator',
+  title: 'Startup Idea Generator Pakistan — AI Startup Validator',
   description:
     'Pakistan\'s first AI-powered startup validator. Get market research, financial projections, and a co-founder-level analysis tailored for Pakistani markets.',
   generator: 'v0.app',

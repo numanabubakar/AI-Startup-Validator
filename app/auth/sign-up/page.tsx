@@ -64,7 +64,7 @@ export default function SignUpPage() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Zap className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">IdeaForge</span>
+            <span className="text-xl font-bold text-foreground">Startup Idea Generator</span>
           </div>
           <p className="text-sm text-muted-foreground">Create your free account</p>
         </div>
